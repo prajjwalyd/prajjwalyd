@@ -1,7 +1,4 @@
-# Hi! My name is Prajjwal 
-![Waving Hand GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=prajjwalyd&color=blue">
-
+# Hi there! <img src="https://github.com/prajjwalyd/prajjwalyd/assets/111794524/47b56f0e-7b31-479f-b7cb-d3f5a9746468" width="25"> <img alt = "profile views" src="https://komarev.com/ghpvc/?username=prajjwalyd&color=blue">
 🌍  Based in Jaipur, Rajasthan, India
 <br/>
 
