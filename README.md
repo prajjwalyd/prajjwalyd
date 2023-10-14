@@ -2,8 +2,6 @@
 🌍  Based in Jaipur, Rajasthan, India
 <br/>
 
-### Learning
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=python,java,mongodb)](https://skillicons.dev) 
 <br/>
 
