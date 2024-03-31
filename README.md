@@ -2,7 +2,7 @@
 🌍  Based in Jaipur, Rajasthan, India
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,go,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br/>
 
 ### Socials
